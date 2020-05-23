@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+bf620269fe6311f0a84049c961eab982 CMakeFiles/salsa-burn
+6466fa6747ef1630b63344a514cde933 CMakeFiles/salsa-size
+f27d2c28cddd2a942f55fe99e97bae08 CMakeFiles/salsa-upload
+4b2e3adfe9b82ddc9bcf67eddc37c478 salsa_salsa.ino.cpp

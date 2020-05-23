@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/leonid/src/salsa/cmake-build-debug/salsa_salsa.ino.cpp
+Arduino.h
+-
+Arduino.h
+/Users/leonid/src/salsa/cmake-build-debug/Arduino.h
+

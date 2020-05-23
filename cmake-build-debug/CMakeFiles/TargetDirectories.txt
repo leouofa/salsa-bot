@@ -1,0 +1,8 @@
+/Users/leonid/src/salsa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leonid/src/salsa/cmake-build-debug/CMakeFiles/salsa-upload.dir
+/Users/leonid/src/salsa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/leonid/src/salsa/cmake-build-debug/CMakeFiles/salsa-burn.dir
+/Users/leonid/src/salsa/cmake-build-debug/CMakeFiles/uno_CORE.dir
+/Users/leonid/src/salsa/cmake-build-debug/CMakeFiles/upload.dir
+/Users/leonid/src/salsa/cmake-build-debug/CMakeFiles/salsa-size.dir
+/Users/leonid/src/salsa/cmake-build-debug/CMakeFiles/salsa.dir
