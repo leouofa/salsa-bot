@@ -2,5 +2,6 @@
 <project version="4">
   <component name="Arduino Project Settings">
     <option name="port" value="/dev/cu.usbmodem00001" />
+    <option name="serialEndOfLine" value="2" />
   </component>
 </project>
